@@ -1,8 +1,4 @@
 // autonomy-excavate
-// RASPBERRY-SI Planning model prototype for Ocean Worlds Autonomy Testbed
-// Javier Camara, Univerity of York
-// javier.camaramoreno@york.ac.uk
-
 mdp
 
 

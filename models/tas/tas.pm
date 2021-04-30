@@ -1,6 +1,5 @@
 // ----------------------------------------------------------------------------
 // tas-reconf.prism - Tele-Assistance System (TAS) Reconfiguration model 
-// 2021 Javier Camara 
 //
 // ----------------------------------------------------------------------------
 // This model is based on the Tele Assistance Model Exemplar described in:
