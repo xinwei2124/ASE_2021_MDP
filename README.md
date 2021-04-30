@@ -11,7 +11,7 @@ EvoPoli uses the probabilistic model checker [PRISM](prismmodelchecker.org) and 
 Instructions
 ------------
 
-EvoChecker is a Java-based tool that uses Maven for managing the project and its dependencies, and for generating the executable jars.
+EvoPoli is a Java-based tool that uses Maven for managing the project and its dependencies, and for generating the executable jars.
 
 EvoChecker uses under-the-hood JMetal 4.5 for multiobjective optimisation, PRISM 4.5 for probabilistic model checking, and Antl4 for parsing the probabilistic model templates.
 
