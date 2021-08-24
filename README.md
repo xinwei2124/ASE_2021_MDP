@@ -1,4 +1,4 @@
-# EvoPoli: Evolutionary-Guided Synthesis of Verified Pareto-Optimal MDP Policies
+# Evolutionary-Guided Synthesis of Verified Pareto-Optimal MDP Policies (ASE 2021)
 
 EvoPoli is a search-based software engineering approach and tool that supports the automatic synthesis of Pareto-optimal policies for MDPs with arbitrary combinations of constraints and optimisation objectives.
 
